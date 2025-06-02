@@ -2,8 +2,6 @@
 
 An intelligent Wikipedia assistant that allows users to chat with Wikipedia articles using natural language questions.
 
-![Wikipedia QnA Logo](logo.png)
-
 ## Features
 
 - Interactive chat interface for querying Wikipedia articles
